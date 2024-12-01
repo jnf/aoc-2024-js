@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+
+day=$1
+
+mkdir ${day}
+touch ${day}/fake
+touch ${day}/real
+cp _template.js ${day}/main.js
