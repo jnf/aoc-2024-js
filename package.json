@@ -1,0 +1,13 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "go.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./go.js"
+  },
+  "author": "jey <code@jnf.dev>",
+  "license": "UNLICENSED"
+}
